@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ===== Datos (se guardan fuera del repositorio) =====
+data/
